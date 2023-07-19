@@ -4,13 +4,16 @@ The size of the panell is 400*400 px. The size of each of the joints of a snake 
 Import the entire code file and open the files using a IDE. Open the 'SnakeGame.java' and 'Board.java' under src folder.
 
 The resource file containg the required png's 
+
 1.Head 
+
 2.Apple 
+
 3.Dot
 
-The Snake grows  
+Snake Game Working
 
-Launch the Game: Run the SnakeGame.java, a window will prompt.
+Launch the Game: Run the SnakeGame.java in a IDE, a window will prompt.
 
 Controls: Use the cursor keys (up, down, left, right) to control the snake's movement. Navigate the snake to move in the desired direction.
 
@@ -20,4 +23,4 @@ Avoid Collisions: Be careful not to collide with the snake's own body or any obs
 
 Aim for a High Score: Try to achieve the highest possible score by eating as much food as you can without colliding with obstacles or the snake's body.
 
-Game Over: If the snake collides, the game ends, and a "Game Over" message will be displayed in the middle of the board.
+Game Over: If the snake collides, the game ends, and a "Game Over" message will be displayed in the middle of the board, and the "Score" is display at the bottom of the board.
