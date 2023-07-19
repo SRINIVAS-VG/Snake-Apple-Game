@@ -25,4 +25,4 @@ Avoid Collisions: Be careful not to collide with the snake's own body or any obs
 
 Aim for a High Score: Try to achieve the highest possible score by eating as much food as you can without colliding with obstacles or the snake's body.
 
-Game Over: If the snake collides, the game ends, and a "Game Over" message will be displayed in the middle of the board, and the "Score" is display at the bottom of the board.
+Game Over: If the snake collides, the game ends, and a "Game Over" message will be displayed in the middle of the board and the "Score" is display at the bottom of the board.
