@@ -1,4 +1,6 @@
 # Snake-Apple-Game
+Snake Game is a classic arcade game where the player controls a snake and tries to eat food while avoiding obstacles and the snake's own tail.
+
 The size of the panell is 400*400 px. The size of each of the joints of a snake is 10 px. The snake is controlled with the cursor keys. Initially, the snake has three joints. If the game is finished, the "Game Over" message is displayed in the middle of the board.
 
 Import the entire code file and open the files using a IDE. Open the 'SnakeGame.java' and 'Board.java' under src folder.
