@@ -1,7 +1,16 @@
-# Snake-Game
+# Snake-Apple-Game
 The size of the panell is 400*400 px. The size of each of the joints of a snake is 10 px. The snake is controlled with the cursor keys. Initially, the snake has three joints. If the game is finished, the "Game Over" message is displayed in the middle of the board.
 
-Launch the Game: Run the 
+Import the entire code file and open the files using a IDE. Open the 'SnakeGame.java' and 'Board.java' under src folder.
+
+The resource file containg the required png's 
+1.Head 
+2.Apple 
+3.Dot
+
+The Snake grows  
+
+Launch the Game: Run the SnakeGame.java, a window will prompt.
 
 Controls: Use the cursor keys (up, down, left, right) to control the snake's movement. Navigate the snake to move in the desired direction.
 
