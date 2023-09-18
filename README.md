@@ -1,4 +1,4 @@
-# Snake-Apple-Game
+# Snake-Game
 Snake Game is a classic arcade game where the player controls a snake and tries to eat food while avoiding obstacles and the snake's own tail.
 
 The Tech Stack used in the project 
